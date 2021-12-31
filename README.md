@@ -1,7 +1,7 @@
-Android Kotlin "compose" UI in Code Project
+Android Kotlin "compose" UI Data Binding Project
 ===========================
 
-通过新提供的"compose"功能，可以直接在代码中以DSL的形式写UI，不再像以前那样需要XML文件
+通过Android compose提供的`remember`和`mutableStateOf`，可以在代码中方便的对数据进行绑定，有点类似前端的react
 
 Run `MainActivity.kt` from your IDE.
 
