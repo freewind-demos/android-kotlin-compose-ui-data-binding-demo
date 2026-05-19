@@ -6,7 +6,7 @@ plugins {
 android {
     compileSdk = 31
     defaultConfig {
-        applicationId = "demos.${rootProject.name.replace('-', '_')}"
+        applicationId = "demos.android.kotlin.compose.ui.data.binding.demo"
         minSdk = 21
         targetSdk = 28
         versionCode = 1

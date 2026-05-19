@@ -1,4 +1,4 @@
-package demos
+package demos.android.kotlin.compose.ui.data.binding.demo
 
 import android.os.Bundle
 import androidx.activity.compose.setContent
